@@ -1,4 +1,3 @@
-Sure, here's a README.md for your chat website, Link-co:
 
 ---
 
